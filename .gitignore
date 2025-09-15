@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+
+# environment variables
+.env
+
+# macOS-specific files
+.DS_Store
+
+# wordpress
+wp-content/
+
+# temporary files
+tmp/

@@ -1,0 +1,7 @@
+{
+	"phpVersion": "8.3",
+	"mappings": {
+		"wp-content": "./wp-content",
+		"tmp": "./tmp"
+	}
+}

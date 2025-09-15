@@ -1,0 +1,11 @@
+{
+  "name": "wordpress-sync-production-to-local",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "wp-env": "wp-env"
+  },
+  "devDependencies": {
+    "@wordpress/env": "10.30.0"
+  }
+}
